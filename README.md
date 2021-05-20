@@ -3,7 +3,7 @@
 - 🌱 I am currently learning SQL
 - 💞️ I'm looking to collaborate on ...
 - 📫 How to contact me: +57 3227405024
--Email: rrejuancho1999@gmail.com
+- 📫 Email: rrejuancho1999@gmail.com
 
 <! ---
 sudorootuser / sudorootuser is a special ✨ repository ✨ because your `README.md` (this file) appears on your GitHub profile.
