@@ -3,7 +3,16 @@
 
 <p align="center">
   Apasionado por crear aplicaciones web y móviles con <strong>Angular, Ionic, Node.js y .NET</strong>.  
-  Me encanta resolver problemas, aprender tecnologías nuevas y construir software de calidad.
+  Me encanta resolver problemas, aprender tecnologías nuevas y construir software de calidad, escalable y centrado en el usuario.
+</p>
+
+---
+
+### 📄 Mi Hoja de Vida
+<p align="center">
+  <a href="https://cdn.statically.io/gh/sudorootuser/sudorootuser/main/cv_juan_sebastian_hernandez.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Descargar_CV-PDF-green?style=for-the-badge&logo=adobe&logoColor=white" alt="Descargar CV" />
+  </a>
 </p>
 
 ---
@@ -14,6 +23,7 @@
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
