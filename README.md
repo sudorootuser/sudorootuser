@@ -57,3 +57,8 @@
 
 ### 💬 Frase favorita
 > "El software y las aplicaciones web son como el arte: lo importante no es solo que funcione, sino cómo lo hace." – Juan S.H.
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudorootuser&label=Visitas&color=blue&style=flat" alt="sudorootuser" />
+</p>
