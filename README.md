@@ -10,8 +10,8 @@
 
 ### 📄 Mi Hoja de Vida
 <p align="center">
-  <a href="https://cdn.statically.io/gh/sudorootuser/sudorootuser/main/cv_juan_sebastian_hernandez.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Descargar_CV-PDF-green?style=for-the-badge&logo=adobe&logoColor=white" alt="Descargar CV" />
+  <a href="https://cdn.statically.io/gh/sudorootuser/sudorootuser/main/cv_juan_sebastian_hernandez.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/👁️_Ver_Hoja_de_Vida-PDF-blue?style=for-the-badge&logo=adobe&logoColor=white" alt="Ver Hoja de Vida" />
   </a>
 </p>
 
