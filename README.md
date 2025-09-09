@@ -11,8 +11,8 @@
 ### 📄 Mi Hoja de Vida
 
 <p align="center">
-  <a href="https://docs.google.com/gview?url=https://cdn.statically.io/gh/sudorootuser/sudorootuser/main/cv_juan_sebastian_hernandez.pdf&embedded=true" target="_blank">
-    <img src="https://img.shields.io/badge/👁️_Ver_Hoja_de_Vida-PDF-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Ver Hoja de Vida" />
+  <a href="https://tinyurl.com/uve769et" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/👁️_Ver_Hoja_de_Vida-PDF-blue?style=for-the-badge&logo=adobe&logoColor=white" alt="Ver Hoja de Vida" />
   </a>
 </p>
 
