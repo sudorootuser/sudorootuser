@@ -18,7 +18,7 @@
 ### 📄 Mi Hoja de Vida
 
 <p align="center">
-  <a href="https://tinyurl.com/uve769et" target="_blank" rel="noopener noreferrer">
+  <a href="https://raw.githubusercontent.com/sudorootuser/sudorootuser/main/Juan_Sebastian_Hernandez_CV_Espa%C3%B1ol_2026.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/📄_Ver_Hoja_de_Vida-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Ver Hoja de Vida" />
   </a>
 </p>
@@ -57,11 +57,28 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Mi Trayectoria en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudorootuser&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas generales" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudorootuser&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+  <strong>🔧 Distribución de Lenguajes Principales:</strong><br><br>
+  <img src="https://img.shields.io/badge/TypeScript-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88_%2040%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%23-%E2%96%88%E2%96%88%E2%96%88%E2%96%88_%2020%25-5C2D91?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-%E2%96%88%E2%96%88%E2%96%88_%2015%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-%E2%96%88%E2%96%88%E2%96%88_%2015%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-%E2%96%88%E2%96%88_%2010%25-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
+
+<p align="center">
+  <strong>🏆 Estado & Enfoque:</strong><br><br>
+  <img src="https://img.shields.io/badge/Estado-Activo%20🟢-brightgreen?style=for-the-badge" alt="Activo" />
+  <img src="https://img.shields.io/badge/Enfoque-Clean%20Architecture-blue?style=for-the-badge" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/IA_Integrada-Optimización-orange?style=for-the-badge&logo=openai" alt="IA" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/sudorootuser" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/📈_Ver_Estadísticas_y_Proyectos-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver estadísticas completas en GitHub" />
+  </a>
 </p>
 
 ---
@@ -69,13 +86,13 @@
 ### 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-sebastian-hernandez-cardenas-044942180/" target="_blank">
+  <a href="https://www.linkedin.com/in/juan-sebastian-hernandez-cardenas-044942180/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:jshernandez834@gmail.com" target="_blank">
+  <a href="mailto:jshernandez834@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/sudorootuser" target="_blank">
+  <a href="https://github.com/sudorootuser" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
